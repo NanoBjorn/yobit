@@ -1,3 +1,5 @@
+# Python YoBit Binding
+
 Python binding for YoBit. Use at your own risk!
 
 Tips are appreciated: BTC 3NoXpUm2EeUWc1jJQhi5X7xKsneN9ReEpQ
