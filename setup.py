@@ -23,13 +23,12 @@ setup(
     author_email="ledi.mambix@gmail.com",
     url="https://github.com/Mambix/yobit",
     packages=find_packages(exclude=('tests')),
-    scripts=['bin/YoBit'],
     entry_points={'console_scripts': ['YoBit=YoBit:main']},
     install_requires=[],
     long_description=long_description,
     classifiers=[
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3.4",
-	"Programming Language :: Python :: 3.5",
+	"Programming Language :: Python :: 2",
+        "Programming Language :: Python :: 3",
     ]
 )
