@@ -31,3 +31,9 @@ yb.get_info()
 
 Tips to NanoBjorn can be send here BTC: 3NoXpUm2EeUWc1jJQhi5X7xKsneN9ReEpQ  
 All the comments and descriptions are at [offical YoBit API page](https://yobit.net/en/api) and in the code.
+
+# ToDO list
+* Automated tests
+* TravisCI
+* Coveralls
+* Automatic publish to PyPi?
