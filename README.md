@@ -33,6 +33,7 @@ Tips to NanoBjorn can be send here BTC: 3NoXpUm2EeUWc1jJQhi5X7xKsneN9ReEpQ
 All the comments and descriptions are at [offical YoBit API page](https://yobit.net/en/api) and in the code.
 
 # ToDO list
+* Add description to PyPi setup packaging
 * Automated tests
 * TravisCI
 * Coveralls
