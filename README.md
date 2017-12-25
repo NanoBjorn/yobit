@@ -18,7 +18,16 @@ In the cloned directory install with setup.py:
 Or you can install with pip directly running:  
 `pip install yobit`
 
-# Other
+# Usage
+Get information about user balances and API permissions:
+```Python
+from YoBit import YoBit
 
-Tips to NanoBjorn can be send here BTC: 3NoXpUm2EeUWc1jJQhi5X7xKsneN9ReEpQ
+yb = YoBit(api_key='YOUR_API_KEY', api_secret='YOUR_API_SECRET')
+yb.get_info()
+```
+
+# Original author contributions
+
+Tips to NanoBjorn can be send here BTC: 3NoXpUm2EeUWc1jJQhi5X7xKsneN9ReEpQ  
 All the comments and descriptions are at [offical YoBit API page](https://yobit.net/en/api) and in the code.
