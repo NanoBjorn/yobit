@@ -37,3 +37,6 @@ All the comments and descriptions are at [offical YoBit API page](https://yobit.
 * TravisCI
 * Coveralls
 * Automatic publish to PyPi?
+
+# Issues
+If you encounter any issues with the use of this python library please open a new issue in this repository and provide as much details as possible so we can quickly reproduce and resolve the issue.
