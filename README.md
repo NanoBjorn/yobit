@@ -1,4 +1,7 @@
 # Python YoBit Binding
+[![Travis](https://img.shields.io/travis/Mambix/yobit.svg)](https://travis-ci.org/Mambix/yobit)
+[![Coverage Status](https://coveralls.io/repos/github/Mambix/yobit/badge.svg?branch=master)](https://coveralls.io/github/Mambix/yobit?branch=master)
+[![PyPI](https://img.shields.io/pypi/v/yobit.svg)](https://pypi.python.org/pypi/yobit)  
 
 Python binding for YoBit. Use at your own risk!
 
