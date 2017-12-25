@@ -5,7 +5,7 @@
 
 Python binding for YoBit. Use at your own risk!
 
-This has been forked from https://githun.com/NanoBjorn/yobit for the purpose of making it a PyPi package so it can be installed with pip.
+This has been forked from https://githun.com/NanoBjorn/yobit for the purpose of making it a PyPi package so it can be easily installed with python pip tool. For the purpose of publishing it to PyPi author agreed to flag it with MIT license.
 
 # Installation
 
